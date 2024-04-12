@@ -1,1 +1,1 @@
-ECHO is on.
+This is for know how git and github work and how it is useful for me.
